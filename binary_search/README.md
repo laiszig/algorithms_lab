@@ -17,7 +17,7 @@
 
 ---
 
-# 📘 Logarithms Summary
+## 📘 Logarithms Summary
 
 Logarithms express exponentiation in reverse. A logarithm answers: "To what power must we raise a specific base to get a given number?"
 
@@ -27,7 +27,7 @@ Logarithms express exponentiation in reverse. A logarithm answers: "To what powe
 
 - **Common Bases**:
     - **Base 10 (`log`)**: Often used in scientific notation; called the "common logarithm."
-    - **Base \( e \) (`ln`)**: Used frequently in calculus and natural growth models; called the "natural logarithm."
+    - **Base $e$ (`ln`)**: Used frequently in calculus and natural growth models; called the "natural logarithm."
     - **Base 2**: Common in computer science, where binary systems are used.
 
 **Note**: Binary search only works if the list is in sorted order.

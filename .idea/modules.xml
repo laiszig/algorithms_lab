@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/algorithms_lab.iml" filepath="$PROJECT_DIR$/.idea/algorithms_lab.iml" />
       <module fileurl="file://$PROJECT_DIR$/binary_search/binary_search.iml" filepath="$PROJECT_DIR$/binary_search/binary_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/selection_sort/selection_sort.iml" filepath="$PROJECT_DIR$/selection_sort/selection_sort.iml" />
     </modules>
   </component>
 </project>
