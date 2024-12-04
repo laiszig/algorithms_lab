@@ -22,10 +22,8 @@ public class SelectionSort {
         int smallestIndex = 0;
 
         for (int i = 0; i < arr.size(); i++) {       // Iterate over the list to find the actual smallest element
-            // If the current element is smaller than the current smallest,
-            // update 'smallest' and 'smallestIndex' to the current element and index
-            if (arr.get(i) < smallest) {
-                smallest = arr.get(i);
+            if (arr.get(i) < smallest) {        // If the current element is smaller than the current smallest,
+                smallest = arr.get(i);          // update 'smallest' and 'smallestIndex' to the current element and index
                 smallestIndex = i;
             }
         }
